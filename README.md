@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **cretualex21/cretualex21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
