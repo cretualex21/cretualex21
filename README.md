@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm a passionate **Full-Stack Software Engineer** from Romania.  
-I love building elegant, performant web apps—from pixel-perfect front-end interfaces to robust back-end services.
+I love building elegant, performant web apps, from pixel-perfect front-end interfaces to robust back-end services.
 
 ### 🚀 What I Do
 - **Frontend:** Craft responsive, accessible UIs with **HTML**, **CSS/SASS/TailwindCSS**, **JavaScript**, and **TypeScript**  
